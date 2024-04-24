@@ -3,7 +3,7 @@
     function db_connect() {
     global $conn; // db connection variable
     $db_server = "localhost";
-    $username = "root";
+    $username = "khushi_quee_143_";
     $password = "";
     $db_name = "instagramclone";
 
